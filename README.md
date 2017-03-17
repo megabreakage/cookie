@@ -1,26 +1,23 @@
-<DOCTYPE! html>
-<html>
-  <body>
     <img src="pictures/cookies.jpeg" alt="cookie">
 
-    <h2>Recipes from the Heart</h2>
+    ###Recipes from the Heart
 
-    <p>This is a project designed to encourage Moringa school students to share their favourite recipes with the world.
-    The recipes can be created from new sources, old family recipes.</p>
+    <dd>This is a project designed to encourage Moringa school students to share their favourite recipes with the world.
+    The recipes can be created from new sources, old family recipes.</dd>
 
-    <h4>Purpose</h4>
+    *Purpose*
 
-    <p>Have fun with food! Try new things in the Kitchen. Share with friends.</p>
+    >Have fun with food! Try new things in the Kitchen. Share with friends.</p>
 
-    <h4>Contribution</h4>
+    *Contribution*
 
-    <p>Your contributions are highly welcome, kindly commit your recipe here with a clear and funky title and a short description of why you like the particular recipe.</p>
-    <p>Your suggestions on the existing recipes are valued.</p>
+    <dd>Your contributions are highly welcome, kindly commit your recipe here with a clear and funky title and a short description of why you like the particular recipe.</dd>
+    <dd>Your suggestions on the existing recipes are valued.</dd>
 
 
-    <h4>License</h4>
+    *License*
 
-    <p>Copyright (c) 2017 Recipes from the Heart</p>
+    <dd>Copyright (c) 2017 Recipes from the Heart</dd>
     The content of this repository is bound by the following LICENSE(S)
-  </body>
-</html>
+    --* GPL
+    --* SSL
