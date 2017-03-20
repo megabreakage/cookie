@@ -1,7 +1,7 @@
 Recipes from the Heart
 ===
 
-![Cookie](/home/breakage/git/cookie-recipe/pictures/cookies.jpg  "Cookies")
+![Cookie](https://github.com/megabreakage/cookie-recipe/pictures/cookies.jpg  "Cookies")
 
 This is a project designed to encourage Moringa school students to share their favorite recipes with the world.
 The recipes can be created from new sources and old family recipes.
