@@ -8,8 +8,10 @@ The recipes can be created from new sources and old family recipes.
 
 **Authors**
 
-1. Corrine Nyawira
-2.  Martin Njuguna
+<ul>
+	<li>Corrine Nyawira</li>
+	<li>Martin Njuguna</li>
+</ul>
 
    **Purpose**
 
@@ -24,11 +26,13 @@ Your contributions are highly welcome, kindly commit your recipe here with a cle
  
  Follow the below steps to run the files on your browser:
     --  Open  *terminal*  on linux or *gitBash* for windows 
-    --  use the below command to clone a copy of the recipe. <dd>git clone https://github.com/megabreakage/cookie.git</dd>
+    --  use the below command to clone a copy of the recipe. 
+    
+	git clone https://github.com/megabreakage/cookie.git
  
  **Licence**
 
  [Copyright (c) 2017 Recipes from the Heart](http://recipesfromtheheart,co,ke/)
-    The content of this repository is bound by the following LICENSE(S)
+    The content of this repository is bound by the following LICENSE(S)    
     --  **GPL**
     --  **SSL**
